@@ -23,7 +23,7 @@ export default function Home() {
                 Ramírez
               </h1>
               <p className="text-xl">
-                Soy un ingeniero electrónico y estudiante de maestria en
+                Soy un ingeniero electrónico y estudiante de maestría en
                 ingeniería de software apasionado por el tema de la tecnología
                 telecomunicaciones y desarrollo. tengo experiencia desarrollando
                 proyectos como aplicaciones Web a nivel de FrontEnd utilizando
@@ -32,7 +32,7 @@ export default function Home() {
               </p>
               <br />
               <p className="text-xl">
-                Tambien cuento con habilidades en sistemas de IoT, manejo
+                También cuento con habilidades en sistemas de IoT, manejo
                 lenguajes de programación como JavaScript, TypeScript Python,
                 C#, y manejo de softwares de edición de video y fotografía
               </p>
