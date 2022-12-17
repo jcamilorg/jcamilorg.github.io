@@ -10,7 +10,7 @@ import {
 export default function Footer() {
   const year = new Date().getFullYear();
   return (
-    <div className="bg-gray-800 text-white text-center text-sm pt-5">
+    <div className="bg-black text-white text-center text-sm pt-5">
       <div className="flex justify-center py-3">
         <a
           className="w-6 mx-2 invert-color rounded "

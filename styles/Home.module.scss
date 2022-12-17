@@ -1,9 +1,7 @@
-
-.textBlueGradient{
+.textBlueGradient {
     background: #ccc;
-    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(45deg, rgb(245, 210, 246) 0%, #cea7ea 35%, #9984ef 100%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
 }
-
