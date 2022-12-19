@@ -15,7 +15,7 @@ export default function Contacto() {
   return (
     <>
       <Head>
-        <title>jcamilorg - Home</title>
+        <title>jcamilorg - Contacto</title>
         <meta
           name="description"
           content="Portafolio Juan Camilo Ramirez Gonzalez"
